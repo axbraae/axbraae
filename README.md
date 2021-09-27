@@ -1,6 +1,6 @@
 ### Hi! 👋 Welcome to my repo.
 
-My name is Anne Braae. I'm a data scientist with a passion for data visualisation. 
+My name is Anne Braae. I'm a data scientist with a passion for data visualisation. I am curently working on improving my machine modelling! 
 
 <!--
 **axbraae/axbraae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
